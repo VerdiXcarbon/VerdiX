@@ -1,0 +1,16 @@
+# Node.js and React
+node_modules/
+.env
+build/
+dist/
+
+# Hardhat
+artifacts/
+cache/
+coverage/
+typechain/
+
+# General
+*.log
+*.swp
+.DS_Store 
