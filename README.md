@@ -29,9 +29,9 @@
 Please read our [Contributing Guidelines](docs/CONTRIBUTING.md) for more details.
 
 ## Community
-- [Twitter](https://twitter.com/VerdiXProject)
-- [Medium](https://medium.com/VerdiX)
-- [Telegram](https://t.me/VerdiXCommunity)
+- [Twitter](https://x.com/verdixcarbon)
+- [Medium](https://medium.com/@verdixcarbon)
+- [Telegram](https://t.me/verdixcarbon)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
